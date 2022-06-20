@@ -1,0 +1,162 @@
+[
+    {
+        "id": 1,
+        "name": "Casio EFV-1AVUDF",
+        "price": "3.529.000",
+        "brand": "Casio",
+        "sex": "Nam",
+        "picture": "1.png",
+        "hot": true,
+        "quantity": 8
+    },
+
+    {
+        "id": 2,
+        "name": "Casio EFR-S567D",
+        "price": "5.182.000",
+        "brand": "Casio",
+        "sex": "Nam",
+        "picture": "2.png",
+        "quantity": 5
+    },
+
+    {
+        "id": 3,
+        "name": "Casio AQ-S810W",
+        "price": "3.356.000",
+        "brand": "Casio",
+        "sex": "Nam",
+        "picture": "3.png",
+        "hot": true,
+        "quantity": 3
+    },
+
+    {
+        "id": 4,
+        "name": "Casio D154TWH",
+        "price": "2.098.000",
+        "brand": "Casio",
+        "sex": "Nam",
+        "picture": "4.png",
+        "quantity": 9
+    },
+
+    {
+        "id": 5,
+        "name": "Casio A168WG-9WDF",
+        "price": "1.678.000",
+        "brand": "Casio",
+        "sex": "Nữ",
+        "picture": "5.png",
+        "hot": true,
+        "quantity": 6
+    },
+
+    {
+        "id": 6,
+        "name": "Citizen NH8394",
+        "price": "9.177.000",
+        "brand": "Citizen",
+        "sex": "Nam",
+        "picture": "6.png",
+        "quantity": 12
+    },
+
+    {
+        "id": 7,
+        "name": "Casio AEQ-3AVDF",
+        "price": "1.506.000",
+        "brand": "Casio",
+        "sex": "Nam",
+        "picture": "7.png",
+        "hot": true,
+        "quantity": 2
+    },
+
+    {
+        "id": 8,
+        "name": "Doxa D124RBKW",
+        "price": "31.390.000",
+        "brand": "Doxa",
+        "sex": "Nam",
+        "picture": "8.png",
+        "quantity": 15
+    },
+
+    {
+        "id": 9,
+        "name": "Casio EFV-540D",
+        "price": "3.529.000",
+        "brand": "Casio",
+        "sex": "Nam",
+        "picture": "9.png",
+        "hot": true,
+        "quantity": 8
+    },
+
+    {
+        "id": 10,
+        "name": "Tissot T101",
+        "price": "8.600.000",
+        "brand": "Tissot",
+        "sex": "Nam",
+        "picture": "10.png",
+        "hot": true,
+        "quantity": 25
+    },
+
+    {
+        "id": 11,
+        "name": "Seiko SRZ520P1",
+        "price": "6.840.000",
+        "brand": "Seiko",
+        "sex": "Nữ",
+        "picture": "11.png",
+        "hot": true,
+        "quantity": 18
+    },
+
+    {
+        "id": 12,
+        "name": "Doxa D124TSVW",
+        "price": "31.390.000",
+        "brand": "Doxa",
+        "sex": "Nữ",
+        "picture": "12.png",
+        "hot": true,
+        "quantity": 5
+    },
+
+    {
+        "id": 13,
+        "name": "Citizen Eco-Drive",
+        "price": "7.820.000",
+        "brand": "Citizen",
+        "sex": "Nam",
+        "picture": "13.png",
+        "hot": true,
+        "quantity": 27
+    },
+
+    {
+        "id": 14,
+        "name": "Tissot T063",
+        "price": "14.060.000",
+        "brand": "Tissot",
+        "sex": "Nam",
+        "picture": "14.png",
+        "quantity": 19
+    },
+
+    {
+        "id": 15,
+        "name": "Citizen RA-ARS10B",
+        "price": "10.170.000",
+        "brand": "Citizen",
+        "sex": "Nam",
+        "picture": "15.png",
+        "hot": true,
+        "quantity": 6
+    }
+
+]

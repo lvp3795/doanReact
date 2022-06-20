@@ -1,0 +1,147 @@
+[
+    {
+        "id": 1,
+        "name": "Casio EFV-550L-H810W-1AVUDF – Nam – Kính nhựa – Quartz (Pin) – Dây Da",
+        "price": "3.529.000",
+        "brand": "Casio",
+        "sex": "Nam",
+        "picture": "1.png",
+        "hot": true
+    },
+
+    {
+        "id": 2,
+        "name": "Casio EFR-S567D-1AVUDF – Nam – Kính Sapphire – Quartz (Pin) – Dây Kim Loại",
+        "price": "5.182.000",
+        "brand": "Casio",
+        "sex": "Nam",
+        "picture": "2.png"
+    },
+
+    {
+        "id": 3,
+        "name": "Casio AQ-S810W-1A4VDF – Nam – Kính Nhựa – Tough Solar – Dây Cao Su",
+        "price": "3.356.000",
+        "brand": "Casio",
+        "sex": "Nam",
+        "picture": "3.png",
+        "hot": true
+    },
+
+    {
+        "id": 4,
+        "name": "Casio D154TWH – Nam – Kính Sapphire – Dây Da – Limited Edition",
+        "price": "2.098.000",
+        "brand": "Casio",
+        "sex": "Nam",
+        "picture": "4.png"
+    },
+
+    {
+        "id": 5,
+        "name": "Casio A168WG-9WDF – Nữ – Kính Nhựa – Quartz (Pin) – Dây Kim Loại",
+        "price": "1.678.000",
+        "brand": "Casio",
+        "sex": "Nữ",
+        "picture": "5.png",
+        "hot": true
+    },
+
+    {
+        "id": 6,
+        "name": "Citizen NH8394-70H – Nam – Automatic (Tự Động) – Dây Kim Loại – Mặt Số 40mm",
+        "price": "9.177.000",
+        "brand": "Citizen",
+        "sex": "Nam",
+        "picture": "6.png"
+    },
+
+    {
+        "id": 7,
+        "name": "Casio AEQ-110W-3AVDF – Nam – Kính Nhựa – Quartz 3ADF110W (Pin) – Dây Cao Su",
+        "price": "1.506.000",
+        "brand": "Casio",
+        "sex": "Nam",
+        "picture": "7.png",
+        "hot": true
+    },
+
+    {
+        "id": 8,
+        "name": "Doxa D124RBKW – Nam – Kính Sapphire – Automatic (Tự Động) – Dây Kim Loại",
+        "price": "31.390.000",
+        "brand": "Doxa",
+        "sex": "Nam",
+        "picture": "8.png"
+    },
+
+    {
+        "id": 9,
+        "name": "Casio EFV-540D-2AVUDF – Nam – Quartz (Pin) – Automatic (Tự Động) – Dây Kim Loại",
+        "price": "3.529.000",
+        "brand": "Casio",
+        "sex": "Nam",
+        "picture": "9.png",
+        "hot": true
+    },
+
+    {
+        "id": 10,
+        "name": "Tissot T101.410.11.041.00 – Nam – Kính Sapphire – Quartz (Pin) – Dây Kim Loại",
+        "price": "8.600.000",
+        "brand": "Tissot",
+        "sex": "Nam",
+        "picture": "10.png",
+        "hot": true
+    },
+
+    {
+        "id": 11,
+        "name": "Seiko SRZ520P1 – Nữ – Quartz 124W (Pin) – Automatic (Tự Động) – Dây Kim Loại",
+        "price": "6.840.000",
+        "brand": "Seiko",
+        "sex": "Nữ",
+        "picture": "11.png",
+        "hot": true
+    },
+
+    {
+        "id": 12,
+        "name": "Doxa D124TSVW – Nữ – Kính Sapphire – Automatic (Tự Động) – Dây Kim Loại",
+        "price": "31.390.000",
+        "brand": "Doxa",
+        "sex": "Nữ",
+        "picture": "12.png",
+        "hot": true
+    },
+
+    {
+        "id": 13,
+        "name": "Citizen Nam – Eco-Drive (Năng Lượng Ánh Sáng) – Kính Sapphire – Dây Kim Loại",
+        "price": "7.820.000",
+        "brand": "Citizen",
+        "sex": "Nam",
+        "picture": "13.png",
+        "hot": true
+    },
+
+    {
+        "id": 14,
+        "name": "Tissot T063.637.36.037.00 – Nam – Kính Sapphire – Quartz (Pin) – Dây Da",
+        "price": "14.060.000",
+        "brand": "Tissot",
+        "sex": "Nam",
+        "picture": "14.png"
+    },
+
+    {
+        "id": 15,
+        "name": "Citizen RA-AR0001S10B – Nam – Kính Sapphire – Automatic (Tự Động) – Dây Kim Loại",
+        "price": "10.170.000",
+        "brand": "Citizen",
+        "sex": "Nam",
+        "picture": "15.png",
+        "hot": true
+    }
+
+]

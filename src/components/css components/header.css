@@ -1,0 +1,15 @@
+.icon-container{
+    position: relative;
+    margin-left: 70px;
+}
+
+.cart_badge{
+    position: absolute;
+    top:0;
+    right: 20px;
+}
+
+.logout {
+    margin-left: 15px;
+    background-color: none;
+}
